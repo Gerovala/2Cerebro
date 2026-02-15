@@ -1,0 +1,2 @@
+Objetivo do jogo é produzir o soro e salvar o máximo de pessoas no processo lutando contra o tempo e vingar meu pai.
+O jogo inicia no final ruim aonde eu não produzi o sorro a tempo e todas as crianças morreram

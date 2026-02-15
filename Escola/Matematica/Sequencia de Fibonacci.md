@@ -1,0 +1,1 @@
+==é uma sucessão infinita de números inteiros, iniciada geralmente por 0 e 1, na qual cada termo subsequente é a soma dos dois anteriores==

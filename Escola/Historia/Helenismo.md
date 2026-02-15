@@ -1,0 +1,1 @@
+Período de fusão cultural entre os costumes gregos e as tradições orientais após as conquistas de Alexandre o grande

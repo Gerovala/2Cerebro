@@ -1,0 +1,340 @@
+{
+  "main": {
+    "id": "7ad74ee3fc1b4753",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cc6e24468e3a117",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "868e7dbdfc8fa9da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escola/Biologia/Ciclo da vida.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ciclo da vida"
+            }
+          },
+          {
+            "id": "46fa41d899b9440f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Escola/Quimica/quimica/Pasted image 20260123232944.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260123232944"
+            }
+          },
+          {
+            "id": "2be597b43f3304a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programação e trabalho/Game Maker/Teste de mesa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Teste de mesa"
+            }
+          },
+          {
+            "id": "06cec2e789254cb1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "a962463812a3bf5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programação e trabalho/Game Maker/GDD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GDD"
+            }
+          },
+          {
+            "id": "f296d3f2aa15dab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resenhas/Pathologic/Itens.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Itens"
+            }
+          },
+          {
+            "id": "a9769053f5c7bac7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programação e trabalho/Game Maker/Variaveis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Variaveis"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae0e7d4310f3526a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1828584652d2a8aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "200dc89521909951",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "b6d4c2bd8984dd39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "c845730f4601358b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "50063e677904f94e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "23555fd0928122be",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab60c822ed8b1a01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ba630b835066779",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programação e trabalho/Game Maker/Variaveis.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Variaveis"
+            }
+          },
+          {
+            "id": "f111931d39e210f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Escola/Sociologia/Fundadores da sociologia.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Fundadores da sociologia"
+            }
+          },
+          {
+            "id": "26398b96ccad94fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "273970b8c78d353c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "5a5d8a8492ff5ada",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Escola/Biologia/Origem da Vida.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Origem da Vida"
+            }
+          },
+          {
+            "id": "e24932883319d700",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "a9769053f5c7bac7",
+  "lastOpenFiles": [
+    "Programação e trabalho/Game Maker/Comandos.md",
+    "Programação e trabalho/Game Maker/Como analisar um jogo.md",
+    "Programação e trabalho/Game Maker/Teste de mesa.md",
+    "Programação e trabalho/Game Maker/Scripts.md",
+    "Programação e trabalho/Game Maker/Rezolução.md",
+    "Programação e trabalho/Game Maker/Operadores aritméticos (no Game Maker).md",
+    "Programação e trabalho/Game Maker/GDD.md",
+    "Programação e trabalho/Game Maker/Funções (programação).md",
+    "Programação e trabalho/Game Maker/Eventos.md",
+    "Programação e trabalho/Game Maker/Dados.md",
+    "Programação e trabalho/Game Maker/Convenções de nomenclatura.md",
+    "Escola/Geografia/Revolução verde.md",
+    "Escola/Geografia/Lei de terras 1850.md",
+    "Escola/Geografia/Sesmarias.md",
+    "Escola/Geografia/Captanias hereditarias.md",
+    "Escola/Matematica/Potenciação.md",
+    "Escola/Fisica/Tatica para solução de problemas.md",
+    "Escola/Fisica/Ondulatoria.md",
+    "Escola/Fisica/Hidroestatica.md",
+    "Escola/Fisica/Dinâmica.md",
+    "Escola/Quimica/Calculo Estequiometrico.md",
+    "Escola/Quimica/Mol.md",
+    "Escola/Biologia/Lipidios.md",
+    "Escola/Biologia/Sem título.md",
+    "Escola/Sociologia E Filosofia/Cultura.md",
+    "Escola/Artes/Identidade.md",
+    "Escola/Sem título",
+    "Escola/Ingles",
+    "Resenhas/Pathologic/Mecanicas",
+    "Resenhas/Pathologic/Telas inicio",
+    "Resenhas/Pathologic/Imago",
+    "Resenhas/Pathologic",
+    "Resenhas",
+    "Escola/Geografia",
+    "Escola/Historia",
+    "Escola/Artes",
+    "Programação e trabalho/Unity/Função (Unity).canvas",
+    "Escola/Sociologia E Filosofia/Materialismo Histórico Dialético.canvas",
+    "Escola/Sociologia E Filosofia/Funcionalismo.canvas",
+    "Escola/Sociologia E Filosofia/A origem da humanidade.canvas",
+    "Escola/Sociologia E Filosofia/Processo de socialização.canvas",
+    "Escola/Sociologia E Filosofia/Sociologia compreensiva.canvas",
+    "Pasted image 20260125154401.png",
+    "Pasted image 20260125021152.png",
+    "Pasted image 20260125020734.png",
+    "Escola/Quimica/quimica/Pasted image 20260123233003.png",
+    "Escola/Quimica/quimica/Pasted image 20260123232944.png",
+    "Escola/Quimica/quimica/Pasted image 20260123233900.png",
+    "Escola/Quimica/quimica/Pasted image 20260123233540.png",
+    "Escola/Quimica/quimica/Pasted image 20260123233426.png",
+    "Escola/Quimica/quimica/Pasted image 20260123233215.png",
+    "Escola/Quimica/quimica/Pasted image 20260123233142.png",
+    "Biologia/Sem título.canvas"
+  ]
+}

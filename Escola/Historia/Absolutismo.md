@@ -1,0 +1,1 @@
+Regime politico em que o monarca concentra todas os poderes do estado, frequente mente justificado pelo divino

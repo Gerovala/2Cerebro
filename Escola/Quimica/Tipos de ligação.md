@@ -1,0 +1,2 @@
+## ligação de Hidrogênio
+é uma forte interação intermolecular que ocorre quando um átomo de hidrogênio (H) está ligado a um átomo altamente eletronegativo (como Oxigênio-O, Nitrogênio-N ou Flúor-F) de uma molécula

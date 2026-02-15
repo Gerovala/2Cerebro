@@ -1,0 +1,1 @@
+Capacidade do alimento de gerar calor

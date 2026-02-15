@@ -1,0 +1,1 @@
+o cotidiano da classe trabalhadora, o realismo social, paisagens naturais, o exótico orientalismo, a subjetividade/sentimentos e a retratação épica da história nacional

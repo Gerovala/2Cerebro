@@ -1,0 +1,1 @@
+Período da "Pedra Lascada", caracterizada pela nomadismo, uso do fogo e substancia baseada na caça e calcita

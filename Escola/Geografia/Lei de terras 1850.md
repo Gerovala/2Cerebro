@@ -1,0 +1,1 @@
+Criada durante o império determinou que terras publicas só poderiam ser adquiridas por compras

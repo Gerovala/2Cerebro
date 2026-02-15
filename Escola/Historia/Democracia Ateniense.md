@@ -1,0 +1,1 @@
+Modelo politico econômico da Grécia antiga aonde "Homens livres" Podem votar

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"61189f76c2c554f8","x":-414,"y":-324,"width":250,"height":60,"type":"text","text":"## Força de trabalho\ncapacidade física e mental humana de produzir riquezas, vendida como mercadoria no capitalismo\n"},
+		{"id":"709f6566d0a33947","x":-230,"y":-136,"width":250,"height":60,"type":"text","text":"## Meio de produção\nsão os elementos materiais (máquinas, ferramentas, matérias-primas, terras e fábricas) utilizados no trabalho para produzir bens"},
+		{"id":"8d54f1dab02fe431","x":-560,"y":-136,"width":250,"height":60,"type":"text","text":"# Modos de produção\nreferem-se à forma como as sociedades se organizam para produzir bens materiais, combinando forças produtivas) (tecnologia, trabalho) e relações de produção (propriedade, classes sociais)\n"},
+		{"id":"62cc38420f43cb98","x":-414,"y":53,"width":250,"height":60,"type":"text","text":"## Necessidades materiais\nProposito para a produção de recursos"}
+	],
+	"edges":[
+		{"id":"424f91566c73aa75","fromNode":"8d54f1dab02fe431","fromSide":"top","toNode":"61189f76c2c554f8","toSide":"bottom"},
+		{"id":"b48119c67ba2c7f5","fromNode":"8d54f1dab02fe431","fromSide":"right","toNode":"709f6566d0a33947","toSide":"left"},
+		{"id":"c61a54f5f39e3cd4","fromNode":"8d54f1dab02fe431","fromSide":"bottom","toNode":"62cc38420f43cb98","toSide":"top"}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"649bfb777b070f06","type":"text","text":"Sociedade","x":-475,"y":-247,"width":250,"height":60},
+		{"id":"5975422b1479a48f","type":"text","text":"Sujeito","x":40,"y":-247,"width":250,"height":60},
+		{"id":"0409ff0695f62012","type":"text","text":"[[Fundadores da sociologia#Influenciado por sentimento|Sentimentos]]\n","x":-618,"y":113,"width":250,"height":60},
+		{"id":"614ca12364a596e9","x":-618,"y":233,"width":250,"height":60,"type":"text","text":"[[Fundadores da sociologia#Não se questiona|Não se questiona]]"},
+		{"id":"d775fa6c682b2735","x":-210,"y":173,"width":250,"height":60,"type":"text","text":"Irracional"},
+		{"id":"c3eb6df42d3f5b28","type":"text","text":"[[Fundadores da sociologia#É baseada na Racionalidade ética, moral|Ética e Moral]]\n","x":-618,"y":360,"width":250,"height":60},
+		{"id":"3c49dc1ab19ef6da","type":"text","text":"[[Fundadores da sociologia#É uma ação de longo prazo|Longo Prazo]]","x":-618,"y":480,"width":250,"height":60},
+		{"id":"c902688b6e6d6366","type":"text","text":"Racional","x":-210,"y":420,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"7dc5d2bd3276e012","fromNode":"649bfb777b070f06","fromSide":"bottom","toNode":"5975422b1479a48f","toSide":"bottom","label":"Influencia"},
+		{"id":"c8f1c61d221b8b32","fromNode":"5975422b1479a48f","fromSide":"left","toNode":"649bfb777b070f06","toSide":"right","label":"Ação social"},
+		{"id":"c11a4972cdd0a4d7","fromNode":"0409ff0695f62012","fromSide":"right","toNode":"d775fa6c682b2735","toSide":"left"},
+		{"id":"cfe929005ac7e3ec","fromNode":"614ca12364a596e9","fromSide":"right","toNode":"d775fa6c682b2735","toSide":"left"},
+		{"id":"876a84c3d53ef783","fromNode":"c3eb6df42d3f5b28","fromSide":"right","toNode":"c902688b6e6d6366","toSide":"left"},
+		{"id":"96ae957685c9d378","fromNode":"3c49dc1ab19ef6da","fromSide":"right","toNode":"c902688b6e6d6366","toSide":"left"}
+	]
+}

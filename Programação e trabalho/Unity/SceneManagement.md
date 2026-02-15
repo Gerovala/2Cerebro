@@ -1,0 +1,4 @@
+- É útil especificar o uso dele no cabeçalho do nosso script
+- Usamos o comando using para definir isso
+- ele só garante a facilidade de uso do recurso
+- Scene manager é quem gerencia as cenas no Unity

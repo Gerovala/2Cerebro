@@ -1,0 +1,1 @@
+Estudo da escrita de historia ao longo do tempo, analisando diferentes interpretações e métodos dos historiadores

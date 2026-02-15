@@ -1,0 +1,3 @@
+- Andar/correr e pular (locomoção)
+- Falar
+- Destacar personagens (leftcontrol)

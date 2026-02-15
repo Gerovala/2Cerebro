@@ -1,0 +1,1 @@
+Conjunto de praticas que visam o acumulo de riquesas

@@ -1,0 +1,1 @@
+aonde as decisões são feitas

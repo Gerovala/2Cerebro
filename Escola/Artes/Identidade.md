@@ -1,0 +1,1 @@
+Singularidade moldada pela [[Cultura]]

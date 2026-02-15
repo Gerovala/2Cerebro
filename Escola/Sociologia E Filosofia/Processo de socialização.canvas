@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"0e9928702f5fb0c3","x":-540,"y":-140,"width":250,"height":60,"type":"text","text":"Sociedade"},
+		{"id":"3453661f2351c568","x":-165,"y":-140,"width":250,"height":60,"type":"text","text":"Família"},
+		{"id":"e2b6b923ff7fb4bd","x":155,"y":-140,"width":250,"height":60,"type":"text","text":"Pessoa "}
+	],
+	"edges":[
+		{"id":"112085e0e4642065","fromNode":"3453661f2351c568","fromSide":"left","toNode":"0e9928702f5fb0c3","toSide":"right"},
+		{"id":"34bf735751ea1e96","fromNode":"0e9928702f5fb0c3","fromSide":"right","toNode":"3453661f2351c568","toSide":"left"},
+		{"id":"05735583df17d7e3","fromNode":"e2b6b923ff7fb4bd","fromSide":"bottom","toNode":"0e9928702f5fb0c3","toSide":"bottom"},
+		{"id":"8d4dcf79b2e73319","fromNode":"0e9928702f5fb0c3","fromSide":"top","toNode":"e2b6b923ff7fb4bd","toSide":"top"},
+		{"id":"3bfcc4a76816d31b","fromNode":"e2b6b923ff7fb4bd","fromSide":"left","toNode":"3453661f2351c568","toSide":"right"},
+		{"id":"ed7296b727ca5590","fromNode":"3453661f2351c568","fromSide":"right","toNode":"e2b6b923ff7fb4bd","toSide":"left"}
+	]
+}

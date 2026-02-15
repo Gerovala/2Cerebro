@@ -1,0 +1,2 @@
+Ele checa se uma condição é verdadeira, se sim ele faz uma coisa se não ele faz outra.
+Uma forma compacta de escrever instruções [[Funções (programação)#If|if-else]] em uma única linha. Sua sintaxe é `condição ? valor_se_verdadeiro : valor_se_falso`, permitindo atribuir valores ou executar funções condicionalmente, economizando linhas e melhorando a legibilidade do código, sendo muito usado para definir variáveis baseadas em lógica

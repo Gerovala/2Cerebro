@@ -1,0 +1,1 @@
+Processo sedentarização Humana marcada pelo desenvolvimento da agricultura domestica de animais

@@ -1,0 +1,1 @@
+A porcentagem (%) é uma razão cujo denominador é igual a 100. Ela representa uma comparação de uma parte com o todo

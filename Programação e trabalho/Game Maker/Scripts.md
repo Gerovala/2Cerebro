@@ -1,0 +1,1 @@
+são criados antes de tudo no jogo

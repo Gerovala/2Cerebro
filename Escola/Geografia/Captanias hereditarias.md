@@ -1,0 +1,1 @@
+Sistema politico criado por Portugal para gerenciar o Brasil colônia

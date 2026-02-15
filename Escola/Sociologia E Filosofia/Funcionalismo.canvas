@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"70e6027b5d79c183","x":-162,"y":-158,"width":250,"height":60,"type":"text","text":"Sujeito"},
+		{"id":"a925adbc7195a2d7","x":-162,"y":-410,"width":250,"height":60,"type":"text","text":"Sociedade"}
+	],
+	"edges":[
+		{"id":"e351693510c69cdd","fromNode":"a925adbc7195a2d7","fromSide":"bottom","toNode":"70e6027b5d79c183","toSide":"top","label":"Estado"},
+		{"id":"5c2fd79d089d66fc","fromNode":"a925adbc7195a2d7","fromSide":"bottom","toNode":"70e6027b5d79c183","toSide":"right","label":"Religião"},
+		{"id":"08346a2f6bfe6a4d","fromNode":"a925adbc7195a2d7","fromSide":"right","toNode":"70e6027b5d79c183","toSide":"right","label":"Cultura"},
+		{"id":"fabbb0699f1effe7","fromNode":"a925adbc7195a2d7","fromSide":"bottom","toNode":"70e6027b5d79c183","toSide":"left","label":"Trabalho"},
+		{"id":"278cbe4d300c1688","fromNode":"a925adbc7195a2d7","fromSide":"left","toNode":"70e6027b5d79c183","toSide":"left","label":"Escola"}
+	]
+}

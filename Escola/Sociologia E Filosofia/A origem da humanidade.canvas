@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"d32be1cdef0d8967","type":"text","text":"Historia","x":46,"y":437,"width":250,"height":60},
+		{"id":"e147ecd5da681133","type":"text","text":"## Memoria coletiva\n==é o conjunto de lembranças, símbolos e narrativas compartilhados por um grupo (família, nação, religião), que confere identidade e continuidade temporal==","x":-409,"y":-312,"width":250,"height":60},
+		{"id":"204fc5b5337ca9b0","type":"text","text":"Conhecimento","x":-362,"y":-150,"width":250,"height":60},
+		{"id":"eb0dc7e5fbf71796","type":"text","text":"Conhecimento Básico","x":-261,"y":-7,"width":250,"height":60},
+		{"id":"69d6fc0f0cc21f95","type":"text","text":"Passado","x":76,"y":-280,"width":250,"height":60},
+		{"id":"174d7a722d77fa69","type":"text","text":"Memoria","x":-66,"y":98,"width":250,"height":60},
+		{"id":"2fffebb8fe291a70","type":"text","text":"Tempo","x":-95,"y":230,"width":250,"height":60},
+		{"id":"c6d4b24b6c2a8778","type":"text","text":"Espaço","x":-128,"y":336,"width":250,"height":60},
+		{"id":"f1d74a8619875b1c","type":"text","text":"Sociedade","x":256,"y":138,"width":250,"height":60},
+		{"id":"660b55fbb45376cf","x":407,"y":440,"width":250,"height":60,"type":"text","text":"Tempo"},
+		{"id":"e23185c8da03ec07","x":18,"y":593,"width":250,"height":60,"type":"text","text":"Sociologia"}
+	],
+	"edges":[
+		{"id":"d29a07c09fe5fe7e","fromNode":"e147ecd5da681133","fromSide":"bottom","toNode":"204fc5b5337ca9b0","toSide":"top"},
+		{"id":"9700c8dfed170770","fromNode":"204fc5b5337ca9b0","fromSide":"bottom","toNode":"eb0dc7e5fbf71796","toSide":"top"},
+		{"id":"f3af87d51944fbd9","fromNode":"e147ecd5da681133","fromSide":"right","toNode":"69d6fc0f0cc21f95","toSide":"left"},
+		{"id":"c89d0646f5365269","fromNode":"204fc5b5337ca9b0","fromSide":"right","toNode":"69d6fc0f0cc21f95","toSide":"left"},
+		{"id":"9bb3cc83942a5c1b","fromNode":"2fffebb8fe291a70","fromSide":"top","toNode":"174d7a722d77fa69","toSide":"bottom"},
+		{"id":"ccd6b5c7df09880e","fromNode":"2fffebb8fe291a70","fromSide":"bottom","toNode":"c6d4b24b6c2a8778","toSide":"top"},
+		{"id":"fd12abc058d76afb","fromNode":"174d7a722d77fa69","fromSide":"right","toNode":"f1d74a8619875b1c","toSide":"left"},
+		{"id":"0c616403293c4c62","fromNode":"d32be1cdef0d8967","fromSide":"right","toNode":"660b55fbb45376cf","toSide":"left","label":"Estuda"},
+		{"id":"9eae709615bde521","fromNode":"d32be1cdef0d8967","fromSide":"bottom","toNode":"e23185c8da03ec07","toSide":"top","label":"Estuda"}
+	]
+}

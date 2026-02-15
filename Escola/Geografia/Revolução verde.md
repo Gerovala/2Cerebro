@@ -1,0 +1,1 @@
+Conjunto de inovações tecnológicas aplicadas a agricultura a partir de 1950-60 que só tornaram mais desigual a luta de classes nos campos

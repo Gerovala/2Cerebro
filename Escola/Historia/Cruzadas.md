@@ -1,0 +1,1 @@
+Expedições militares do inicio da sociedade media com o objetivo de conquistar a aterra santa do domínio muçulmano

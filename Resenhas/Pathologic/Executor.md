@@ -1,0 +1,1 @@
+Pássaro estranho

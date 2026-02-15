@@ -1,0 +1,1 @@
+Frase = Eninciado que transmite sentido completo *com* ou *sem*, verbo

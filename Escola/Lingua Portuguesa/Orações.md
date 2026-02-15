@@ -1,0 +1,1 @@
+Todo enunciado que possui verbo

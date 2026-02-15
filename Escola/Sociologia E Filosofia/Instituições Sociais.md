@@ -1,0 +1,5 @@
+Família
+Escola
+Religião
+Trabalho
+Justiça

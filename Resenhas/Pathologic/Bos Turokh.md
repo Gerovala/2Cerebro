@@ -1,0 +1,1 @@
+Criatura do folclore de estepe da qual dizem ter criado o mundo

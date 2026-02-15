@@ -1,0 +1,5 @@
+- Voltar ao jogo
+- Carregar jogo
+- Configurações
+- Menu Principal 
+- Sair

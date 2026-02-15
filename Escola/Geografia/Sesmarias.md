@@ -1,0 +1,1 @@
+Concessões feitas pela coroa Portuguesa. Tinha objetivo acumular e estimular produção agrícola. Na pratica só serviam as elites

@@ -1,0 +1,50 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🇺🇸",
+      "LiMap",
+      "LiHistory",
+      "🎨",
+      "LiBrainCog"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Escola": "LiSchool",
+  "Agenda": "LiNotebook",
+  "Escola/Biologia": "LiBiohazard",
+  "Escola/Fisica": "LiAtom",
+  "Escola/Lingua Portuguesa": "🇵🇹",
+  "Escola/Matematica": "LiPlus",
+  "Programação e trabalho": "LiNetwork",
+  "Escola/Quimica": "LiTestTube",
+  "Escola/Artes": "🎨",
+  "Escola/Sociologia E Filosofia": "LiBrainCog",
+  "Escola/Historia": "LiHistory",
+  "Escola/Geografia": "LiMap",
+  "Escola/Ingles": "🇺🇸"
+}

@@ -1,0 +1,1 @@
+é um sistema de coordenadas criado por René Descartes que usa dois eixos perpendiculares (horizontal X e vertical Y) para localizar pontos em um plano, usando pares ordenados (X, Y)

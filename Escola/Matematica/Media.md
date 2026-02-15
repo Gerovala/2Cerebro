@@ -1,0 +1,1 @@
+Resultado da divisão da soma dos valores pela quantidade de valores 
