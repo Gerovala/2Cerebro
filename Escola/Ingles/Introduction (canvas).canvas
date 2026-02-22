@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"a7b9f4278d81ba5a","x":-189,"y":-410,"width":250,"height":60,"type":"text","text":"atention graber"},
+		{"id":"9d1eb92493666cce","x":-589,"y":-329,"width":250,"height":60,"type":"text","text":"starting information"},
+		{"id":"0e9d600236ba80b3","x":-314,"y":-299,"width":250,"height":60,"type":"text","text":"dialogue"},
+		{"id":"c78d141a84a882f6","x":-64,"y":-299,"width":250,"height":60,"type":"text","text":"summary"},
+		{"id":"bc1c48efe368b946","x":220,"y":-329,"width":250,"height":60,"type":"text","text":"your topic"}
+	],
+	"edges":[
+		{"id":"afdcabc8bac9f075","fromNode":"a7b9f4278d81ba5a","fromSide":"left","toNode":"9d1eb92493666cce","toSide":"right"},
+		{"id":"0c310071e80d59e4","fromNode":"a7b9f4278d81ba5a","fromSide":"bottom","toNode":"0e9d600236ba80b3","toSide":"top"},
+		{"id":"2636638e2b4de1c1","fromNode":"a7b9f4278d81ba5a","fromSide":"bottom","toNode":"c78d141a84a882f6","toSide":"top"},
+		{"id":"d736dd7df97c02ee","fromNode":"a7b9f4278d81ba5a","fromSide":"right","toNode":"bc1c48efe368b946","toSide":"left"}
+	]
+}

@@ -1,0 +1,4 @@
+- O surgimento da burguesia se dá a partir da modernidade com a criação dos burgos, introdução do liberalismo econômico e a consolidação das religiões protestantes
+- Esta classe se encontrava nesta época entre o camponês e a aristocracia
+- Ela justifica a obtenção de seu lucro excessivo com a instituição de religiões protestantes
+- A partir da revolução francesa e a instituição da democracia e do liberalismo como os conhecemos hoje

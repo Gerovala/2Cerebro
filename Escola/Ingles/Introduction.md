@@ -1,0 +1,1 @@
+Nead to be drawn to atract the readers attention and give her an idea of esay's focus 
